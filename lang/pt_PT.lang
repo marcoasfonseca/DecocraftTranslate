@@ -628,28 +628,18 @@ item.props.wooden_office_chair.name=Cadeira de Escritório de Madeira
 item.props.archive_box.name=Armário de Arquivos
 item.props.tree_swing.name=Baloiço de Árvore
 item.props.jukebox.name=Jukebox
-
 item.props.billiard_table.name=Mesa de Bilhar
 item.props.patron_doll_zerokazuma.name=Boneco Patron ZeroKazuma
-
 item.props.patron_doll_seriiiously.name=Boneco Patron Seriiiously
-
 item.props.patron_doll_daycarn.name=Boneco Patron Daycarn
-
 item.props.patron_doll_onyxdarkknight.name=Boneco Patron OnyxDarkKnight
-
 item.props.patron_doll_latvian.name=Boneco Patron Latvian
-
 item.props.patron_doll_openkerley.name=Boneco Patron OpenKerley
-
 item.props.patron_doll_beanxxbot.name=Boneco Patron Beanxxbot
-
 item.props.patron_doll_lividcoffee.name=Boneco Patron Lividcoffee
-
 item.props.donation_box.name=Caixa de Donativos
 item.props.bottom_cabinet.name=Armário de Cozinha de Madeira Escura
 item.props.bottom_cabinet_3.name=Armário de Cozinha de Madeira Escura 3
-
 item.props.top_cabinet.name=Armário de Cozinha de Parede de Madeira Escura
 item.props.top_cabinet_glass.name=Armário de Cozinha de Parede de Vidro de Madeira Escura
 item.props.wine_rack.name=Garrafeira de Cozinha de Madeira Escura
@@ -657,27 +647,18 @@ item.props.toy_box_boy.name=Caixa de Brinquedos de Rapaz
 item.props.toy_box_girl.name=Caixa de Brinquedos de Rapariga
 item.props.mcw_ring.name=Arena Wrestling
 item.props.dresser_boy.name=Cómoda de Rapaz
-
 item.props.dresser_girl.name=Cómoda de Rapariga
 item.props.chest_of_drawers_boy.name=Armário dos Desenhos de Rapaz
-
 item.props.chest_of_drawers_girl.name=Armário dos Desenhos de Rapariga
-
 item.props.piggy_bank.name=Mealheiro
 item.props.bottom_cabinet_2.name=Armário de Cozinha de Madeira Escura 2
-
 item.props.dollhouse_1.name=Casa de Bonecas 1
-
 item.props.dollhouse_2.name=Casa de Bonecas 2
-
 item.props.basketball_basket.name=Cesto de Basquetbol
-
 item.props.basketball.name=Bola de Básquete
 item.props.fish_bowl.name=Aquário Pequeno
 item.props.kitchen_faucet_2.name=Torneira de Cozinha 2
-
 item.props.kitchen_faucet_3.name=Torneira de Cozinha 3
-
 item.props.trough_hitching_post.name=Bebedouro para Cavalos
 item.props.broom_cabinet_l.name=Armário de Vassouras de Madeira Escura
 item.props.kitchen_shelf.name=Estante de Cozinha de Madeira Escura
@@ -690,7 +671,6 @@ item.props.knife_strip.name=Suporte de Facas
 item.props.hood_wall.name=Exaustor de Parede de Madeira Escura
 item.props.hood_island.name=Exaustor de Ilha
 item.props.built_in_microwave.name=Mricro-ondas Emburido de Madeira Escura
-
 item.props.stove.name=Fogão
 item.props.food_processor.name=Processador de Comida
 item.props.oven_wall.name=Forno de Parede de Madeira Escura
@@ -701,9 +681,7 @@ item.props.wall_cabinet_full.name=Armário de Parede de Madeira Escura Cheio
 item.props.wall_cabinet_full_dark.name=Armário de Parede Cheio
 item.props.bottom_cabinet_dark.name=Armário de Cozinha
 item.props.bottom_cabinet_2_dark.name=Armário de Cozinha 2
-
 item.props.bottom_cabinet_3_dark.name=Armário de Cozinha 3
-
 item.props.kitchen_sink_dark.name=Pia de Cozinha
 item.props.bottom_cabinet_center_dark.name=Armário de Cozinha (Centro)
 item.props.wine_rack_dark.name=Garrafeira de Cozinha
@@ -723,7 +701,6 @@ item.props.fridge_small.name=Combinado
 item.props.dish_rack.name=Suporte de Pratos de Madeira Escura
 item.props.dish_rack_dark.name=Suporte de Pratos
 item.props.patron_doll_davexx100.name=Boneco Patron Davexx100
-
 item.props.fireplace.name=Lareira
 item.props.punching_bag.name=Saco de Boxe
 item.props.toy_rocket.name=Foguetão de Brinquedo
@@ -741,15 +718,10 @@ item.props.bathroom_sign_female.name=Sinal de Casa de Banho Femenina
 item.props.bathroom_sign_male.name=Sinal de Casa de Banho Masculina
 item.props.giant_spider_web.name=Teia de Aranha Grande
 item.props.patron_doll_trustlines.name=Boneco Patron Trustlines
-
 item.props.patron_doll_iarunu_tatsu.name=Boneco Patron Iarunu Tatsu
-
 item.props.patron_doll_thejays.name=Boneco Patron TheJays
-
 item.props.patron_doll_skuli.name=Boneco Patron Skuli
-
 item.props.patron_doll_convict999.name=Boneco Patron convict999
-
 item.props.altar_de_muertos.name=Altar Dos Mortos
 item.props.tiki_torch.name=Tocha Tiki
 item.props.guillotine.name=Guilhorina
@@ -757,10 +729,7 @@ item.props.dynamite_sticks.name=Dinamite
 item.props.skull_candle.name=Vela de Crânio
 item.props.birthday_cake.name=Bolo de Aniversário
 item.props.birthday_cake_2.name=Bolo de Aniversário 2
-
 item.props.witch_cauldron.name=Caldeirão de Bruxa
-
 item.props.bathroom_sign.name=Sinal de Casa de Banho
-
 item.props.candy_corn_bowl.name=Taça de Doces de Milho
 item.props.radiator.name=Radiador
